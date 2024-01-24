@@ -1,0 +1,22 @@
+{
+  "author": "𝐀𝐒𝐈𝐅 𝐱𝟔𝟗",
+  "developermode": false,
+  "language": "en",
+  "notification": true,
+  "approval": true,
+  "premium": true,
+  "BOTNAME": "🦋⃟𝐀𝐒𝐈𝐅 𝐱𝟔𝟗 ◉⁠‿⁠◉🥰⃤ ",
+  "PREFIX": "/",
+  "OPERATOR": [
+    "100083900196039",
+    ""
+  ],
+  "ADMINBOT": [
+    "100000768468627",
+    "100083900196039",
+    "100086971370548"
+  ],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase"
+}
